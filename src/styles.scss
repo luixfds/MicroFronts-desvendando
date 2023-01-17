@@ -1,0 +1,13 @@
+.page{
+    display: flex;
+    flex-direction: row;
+}
+.sidebar{
+    display: flex;
+    float: left;
+}
+.content{
+    display: flex;
+    float: right;
+    background-color: blue;
+}
